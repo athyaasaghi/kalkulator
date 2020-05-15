@@ -47,7 +47,7 @@ button {
 }
 
 button:hover {
-    background-color: greenyellow;
+    background-color: rgb(94, 0, 62);
 }
 
 .operator:hover, .equal-sign:hover {
