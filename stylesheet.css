@@ -43,7 +43,7 @@ button {
 }
 
 .operator, .equal-sign {
-    background-color: yellow;
+    background-color: rgb(139, 10, 38);
 }
 
 button:hover {
